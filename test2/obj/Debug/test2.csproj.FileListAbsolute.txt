@@ -1,0 +1,7 @@
+C:\Users\ijazu\source\repos\test\test2\bin\Debug\test2.exe.config
+C:\Users\ijazu\source\repos\test\test2\bin\Debug\test2.exe
+C:\Users\ijazu\source\repos\test\test2\bin\Debug\test2.pdb
+C:\Users\ijazu\source\repos\test\test2\obj\Debug\test2.csprojAssemblyReference.cache
+C:\Users\ijazu\source\repos\test\test2\obj\Debug\test2.csproj.CoreCompileInputs.cache
+C:\Users\ijazu\source\repos\test\test2\obj\Debug\test2.exe
+C:\Users\ijazu\source\repos\test\test2\obj\Debug\test2.pdb
